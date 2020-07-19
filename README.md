@@ -1,3 +1,3 @@
-# 🐋 Docker Files
+# Docker Files
 
-Some useful docker files.
+Useful docker files.
