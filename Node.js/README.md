@@ -1,6 +1,5 @@
 # Node.js
 
-
 ## Copy files to container
 
 Use Dockerfile inside `copy`.
@@ -18,7 +17,6 @@ docker build -t nodejs-copy .
 ```
 docker run -it --name nodejs nodejs-copy
 ```
-
 
 ## Share files with container
 
